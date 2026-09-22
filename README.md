@@ -1,4 +1,5 @@
-# RochedDc
+<img width="1983" height="793" alt="ChatGPT Image Sep 22, 2026, 06_00_21 PM" src="https://github.com/user-attachments/assets/78b6e112-ae9b-4266-a578-e9b8a6daeda6" />
+
 
 > Advanced Python obfuscation and native hardening toolkit `discord.RochedDc.cc | RochedDc.cc`
 
